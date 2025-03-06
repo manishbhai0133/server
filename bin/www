@@ -14,7 +14,7 @@ var http = require('http');
 
 const mongoose = require('mongoose');
 
-mongoose.connect('mongodb+srv://vaghasiyavivek2023katargam:vivek%400133@cluster0.48fuj.mongodb.net/TSM')
+mongoose.connect('mongodb+srv://manishbhai0133:Manishbhai0133@cluster0.0nmke.mongodb.net//ManishSir')
   .then(() => {
     console.log('Connected to MongoDB successfully');
   })
